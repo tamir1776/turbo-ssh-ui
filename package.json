@@ -1,0 +1,22 @@
+{
+  "name": "turbo-ssh-ui",
+  "version": "1.0.0",
+  "description": "User interface which gives users temporary credentials to servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamir1776/turbo-ssh-ui.git"
+  },
+  "author": "Tamir Reuveni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamir1776/turbo-ssh-ui/issues"
+  },
+  "homepage": "https://github.com/tamir1776/turbo-ssh-ui#readme",
+  "dependencies": {
+    "yarn": "^1.22.21"
+  }
+}
